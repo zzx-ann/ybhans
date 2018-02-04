@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xbl_flume">
+    <output-path>$PROJECT_DIR$/out/artifacts/xbl_flume</output-path>
+    <root id="archive" name="xbl_flume.jar">
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="module-output" name="ybhans" />
+    </root>
+  </artifact>
+</component>
